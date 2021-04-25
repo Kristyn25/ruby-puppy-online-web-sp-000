@@ -23,8 +23,8 @@ class Dog
    end
   end
 
-  #def self.save
-  #  self << @@all
-  #end
+  def self.save
+    self << @@all
+  end
 
 end
