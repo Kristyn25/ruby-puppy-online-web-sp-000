@@ -20,7 +20,4 @@ class Dog
   def self.print_all
     @@all.each do|name|
   end
-
-  def self.save_all
-  end
 end
