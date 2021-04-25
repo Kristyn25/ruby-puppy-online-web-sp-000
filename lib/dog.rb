@@ -21,5 +21,6 @@ class Dog
     @@all.each do|name|
   end
 
-  def
+  def self.save_all
+  end
 end
